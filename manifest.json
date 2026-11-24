@@ -1,0 +1,19 @@
+{
+  "name": "Padhle! — CA Final Study Planner",
+  "short_name": "Padhle!",
+  "description": "The App that bullies you into becoming CA 🎓 — CA Final Study Planner for May 2027 New Scheme",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0a1a",
+  "theme_color": "#a855f7",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%23a855f7'/><text x='256' y='340' font-size='260' text-anchor='middle' fill='white' font-weight='900' font-family='system-ui'>P!</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
